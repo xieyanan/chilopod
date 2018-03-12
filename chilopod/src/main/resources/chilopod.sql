@@ -1,4 +1,8 @@
 /**
+ * 数据库脚本语句
+ */
+
+/**
  * 创建用户表
  */
 create table t_sys_user(
