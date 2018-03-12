@@ -1,0 +1,5 @@
+com\isoftstone\chilopod\mapper\UserMapper.class
+com\isoftstone\chilopod\App.class
+com\isoftstone\chilopod\bean\User.class
+com\isoftstone\chilopod\web\Response.class
+com\isoftstone\chilopod\controller\UserController.class
